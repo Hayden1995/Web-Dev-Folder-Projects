@@ -21,6 +21,14 @@ h3 {
   color: #CAF0F8;
 }
 
+h4 {
+  color: #CAF0F8;
+  font-family: 'Redressed', cursive;
+  font-size: 1em;
+  margin: 0;
+  padding-top: 10px;
+}
+
 p {
   font-family: 'Redressed', cursive;
   font-size: 2em;
@@ -28,6 +36,8 @@ p {
   margin: 0;
   font-weight: normal;
 }
+
+
 
 
 /* id's */
@@ -88,4 +98,8 @@ p {
 .contact-me {
   padding-top: 80px;
   padding-bottom: 30px;
+}
+.btn {
+  border-style: solid;
+  background-color: white;
 }
