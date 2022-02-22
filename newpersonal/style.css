@@ -6,23 +6,27 @@ body {
 
 h1 {
   font-family: 'Redressed', cursive;
-  font-size: 90px;
+  font-size: 6em;
   color: #CAF0F8;
 }
 h2 {
   font-family: 'Redressed', cursive;
+  font-size: 3em;
   color: black;
+  font-weight: normal;
 }
 h3 {
   font-family: 'Redressed', cursive;
-  color: black;
+  font-size: 2em;
+  color: #CAF0F8;
 }
 
 p {
   font-family: 'Redressed', cursive;
-  font-size: 40px;
+  font-size: 2em;
   color: #CAF0F8;
   margin: 0;
+  font-weight: normal;
 }
 
 
@@ -37,6 +41,8 @@ p {
 
 .middle-container {
   background-color: #00B4D8;
+  padding-left: 250px;
+  padding-right: 250px;
 }
 .bottom-container {
   background-color: #03045E;
@@ -81,5 +87,5 @@ p {
 }
 .contact-me {
   padding-top: 80px;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
