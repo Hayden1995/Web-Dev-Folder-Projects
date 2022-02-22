@@ -1,0 +1,44 @@
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+  background-color: #FFF1CE
+}
+
+h1, p {
+  text-align: center;
+  color: #86C6F4
+}
+h1 {
+  font-size: 80px;
+}
+
+div {
+  padding: 50px;
+  text-align: center;
+}
+
+img {
+  padding: none 5px none 5px;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  padding-bottom: 25px;
+  border-width: 5px;
+  text-align: center;
+  color: #86C6F4
+}
+
+/* CLASSES */
+
+.bodysection {
+
+}
+
+/* ID's */
+
+#title {
+
+}
