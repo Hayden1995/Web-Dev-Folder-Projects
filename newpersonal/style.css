@@ -49,6 +49,7 @@ p {
 
 .middle-container {
   background-color: #00B4D8;
+  padding-bottom: 15px;
 }
 
 .bottom-container {
@@ -100,7 +101,7 @@ p {
 .pizza {
   margin: 30px;
   width: 25%;
-  float: left;
+  float: right;
 }
 
 .skills {}
